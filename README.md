@@ -34,6 +34,8 @@ http://localhost:8080/api/people
 ### Bonus Points
 - Add image URLs to the people data and render these photos in the profile
 - Make it possible to change sort order of people shown in directory panel
+- Allow editing of the profiles
+- Additional style enhancements, or added functionality
 
 ### Additional Notes
 - Feel free to use any framework or library (or use vanilla JavaScript)
